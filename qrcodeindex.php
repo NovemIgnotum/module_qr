@@ -92,8 +92,8 @@ $form = new Form($db);
 $formfile = new FormFile($db);
 
 /****************************************************** 
-					Affichae du module
-***************************************************** */
+		Affichage du module
+******************************************************/
 
 
 llxHeader("", $langs->trans("Qrcode2"));
